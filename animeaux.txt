@@ -3,3 +3,5 @@ lièvre
 singe
 chien
 ours
+tigre
+singe
