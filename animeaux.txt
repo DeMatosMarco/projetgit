@@ -1,3 +1,5 @@
 girafe
+lièvre
 singe
 chien
+ours
